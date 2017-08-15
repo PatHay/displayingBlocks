@@ -1,0 +1,46 @@
+#wrapper{
+    height: 900px;
+    width: 900px;
+    padding: 20px;
+    background-color: beige;
+}
+#title{
+    text-align: center;
+    display: block;
+}
+.headimg{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+#text{
+    width: 500px;
+    font-size: 200%;
+    display: inline;
+    font-weight: bold;
+}
+img {
+    height: 100%;
+    width: 100%;
+}
+.row1{
+    text-align: center;
+    display: block;
+    margin: 10px;
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    background-color: blue;
+    display: inline-block;
+    border: 3px solid black;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    background-color: red;
+    display: inline-block;
+    border: 3px solid black;
+}
